@@ -15,5 +15,6 @@ public class MainBangunDatar2  {
         System.out.println(L1.isEqualLuas(L2));
         P2.zoomIn();
         System.out.println(P1.isEqualLuas(P2));
+        System.out.println(P2.getSisi());
     }
 }

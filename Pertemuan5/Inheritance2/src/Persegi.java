@@ -83,15 +83,15 @@ public class Persegi extends BangunDatar implements IResize {
         sisi = sisi * 1.1;
     }
 
-    @Override
-    public void zoomOut()
-    {
-        sisi = sisi * 0.9;
-    }
+    // @Override
+    // public void zoomOut()
+    // {
+    //     sisi = sisi * 0.9;
+    // }
 
-    @Override
-    public void zoom(int percent)
-    {
-        sisi = sisi * percent/100;
-    }
+    // @Override
+    // public void zoom(int percent)
+    // {
+    //     sisi = sisi * percent/100;
+    // }
 }
